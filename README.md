@@ -1,4 +1,4 @@
-# Audiobooks Classification with TensorFlow
+# Audiobooks Classification - Customer bahavior prediction with TensorFlow
 
 This project is a simple neural network built with **TensorFlow / Keras** to classify audiobook customers based on prepared training, validation, and test datasets.
 
